@@ -1,0 +1,8 @@
+{
+  "name": "COLOR TRACE",
+  "description": "歌詞をキャッチし、軌跡で世界にひとつだけの初音ミクの衣装を紡ぎ出す、新感覚の共創音楽アートゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
